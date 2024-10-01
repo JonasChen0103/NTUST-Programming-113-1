@@ -1,0 +1,5 @@
+﻿  main.c
+E:\Lab-of-Computer-Programming\C1130930\C1130930Q01\main.c(8,16): warning C4013: 'intToBinary' 未定義; 假設 extern 傳回整數
+E:\Lab-of-Computer-Programming\C1130930\C1130930Q01\main.c(10,28): warning C4013: 'reverseBits' 未定義; 假設 extern 傳回整數
+E:\Lab-of-Computer-Programming\C1130930\C1130930Q01\main.c(37): warning C4716: 'intToBinary': 必須傳回值
+  C1130930Q01.vcxproj -> E:\Lab-of-Computer-Programming\C1130930\x64\Debug\C1130930Q01.exe

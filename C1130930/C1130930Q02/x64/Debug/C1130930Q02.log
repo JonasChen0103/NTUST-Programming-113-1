@@ -1,0 +1,4 @@
+﻿  main.c
+E:\Lab-of-Computer-Programming\C1130930\C1130930Q02\main.c(28,17): warning C4013: 'isPrime' 未定義; 假設 extern 傳回整數
+E:\Lab-of-Computer-Programming\C1130930\C1130930Q02\main.c(28,30): warning C4013: 'getIndex' 未定義; 假設 extern 傳回整數
+  C1130930Q02.vcxproj -> E:\Lab-of-Computer-Programming\C1130930\x64\Debug\C1130930Q02.exe
