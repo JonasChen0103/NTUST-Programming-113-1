@@ -25,7 +25,7 @@ int main()
 						else
 							break;
 					}
-					if (isPrime(i)) getIndex(i, count, prime, res);
+					if (isPrime(i)) addCount(i, count, prime, res);
 				}
 				n--;
 			}
@@ -40,7 +40,7 @@ int main()
 	}
 }
 
-int getIndex(int num, int count, int prime[25], int res[25]) {
+int addCount(int num, int count, int prime[25], int res[25]) {
 	for (int i = 0; i < 25; i++) {
 		if (num == prime[i]) res[i] += count;
 	}
